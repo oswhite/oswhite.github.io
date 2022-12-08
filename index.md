@@ -1,8 +1,6 @@
-Hello! I am a Quantitative Biology student at USC.
+Welcome to my blog! I am a Quantitative Biology student at USC hoping to document my projects and practice with coding and data analysis.
 
-I am hoping to use this blog to document my projects and practice with coding and data analysis!
-
-Check out my recent projects [here](https://oswhite.github.io/archive.html)!
+Check out my recent projects [here](https://oswhite.github.io/archive.html).
 
 Feel free to use my email below and reach out about anything! Would love to chat about bioinformatics, USC, or whatever!
 
